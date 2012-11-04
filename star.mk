@@ -73,6 +73,7 @@ PRODUCT_PACKAGES += \
     screencap \
     audio.a2dp.default \
     hwcomposer.default \
+    power.tegra \
     com.android.future.usb.accessory
 
 # Enable Torch
